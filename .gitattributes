@@ -1,2 +1,6 @@
 ML[[:space:]]models/text_model/* filter=lfs diff=lfs merge=lfs -text
 ML[[:space:]]models/* filter=lfs diff=lfs merge=lfs -text
+ML_models/* filter=lfs diff=lfs merge=lfs -text
+/home/saashiv/d/emerRP/ML_models/text_model/checkpoint-7500 filter=lfs diff=lfs merge=lfs -text
+/home/saashiv/d/emerRP/ML_models/text_model/checkpoint-7500/* filter=lfs diff=lfs merge=lfs -text
+ML_models/text_model/checkpoint-7500/* filter=lfs diff=lfs merge=lfs -text
